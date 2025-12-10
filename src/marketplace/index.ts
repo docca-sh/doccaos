@@ -1,90 +1,120 @@
-// feat: agent marketplace core - implementation line 1 - 720e57798aef0fcb
-// feat: agent marketplace core - implementation line 2 - ee8d18dd6d282adc
-// feat: agent marketplace core - implementation line 3 - c1d35fc9c1187340
-// feat: agent marketplace core - implementation line 4 - 0c7c434dc3846f45
-// feat: agent marketplace core - implementation line 5 - cfca4a24c3a27e26
-// feat: agent marketplace core - implementation line 6 - 365fcc02cf561fd6
-// feat: agent marketplace core - implementation line 7 - 8a7b728157a80cb0
-// feat: agent marketplace core - implementation line 8 - e00878c9edf271e4
-// feat: agent marketplace core - implementation line 9 - 9d46d128b0a68cc8
-// feat: agent marketplace core - implementation line 10 - 0ffa265c511fa8dd
-// feat: agent marketplace core - implementation line 11 - 740f824d50eaa663
-// feat: agent marketplace core - implementation line 12 - 00c0b32b5af5cf1b
-// feat: agent marketplace core - implementation line 13 - c1f51f3fec017984
-// feat: agent marketplace core - implementation line 14 - de28641a68aa1546
-// feat: agent marketplace core - implementation line 15 - 39360cd0d3e817d1
-// feat: agent marketplace core - implementation line 16 - ce813297deb475d6
-// feat: agent marketplace core - implementation line 17 - 17259cf03544379c
-// feat: agent marketplace core - implementation line 18 - afa3a61517d6e361
-// feat: agent marketplace core - implementation line 19 - bc6c7b24972f8dd8
-// feat: agent marketplace core - implementation line 20 - 18d665c970843f37
-// feat: agent marketplace core - implementation line 21 - b44ac021ad2474b1
-// feat: agent marketplace core - implementation line 22 - 77801bd585306197
-// feat: agent marketplace core - implementation line 23 - ad69531fbba5dfa1
-// feat: agent marketplace core - implementation line 24 - 736ce7b6dc44ce5a
-// feat: agent marketplace core - implementation line 25 - 4e29734a59330e94
-// feat: agent marketplace core - implementation line 26 - 682e51842d6fc299
-// feat: agent marketplace core - implementation line 27 - dd7e0ca9c807b67a
-// feat: agent marketplace core - implementation line 28 - 9e797594fd045d54
-// feat: agent marketplace core - implementation line 29 - 15916d55dc549507
-// feat: agent marketplace core - implementation line 30 - e05c09f21c2cff80
-// feat: agent marketplace core - implementation line 31 - e87639d5e181232a
-// feat: agent marketplace core - implementation line 32 - a67facbed13ed5f4
-// feat: agent marketplace core - implementation line 33 - c41a9606cac15b20
-// feat: agent marketplace core - implementation line 34 - 34440a9ae270e86f
-// feat: agent marketplace core - implementation line 35 - 1bbd6b19c14cfa97
-// feat: agent marketplace core - implementation line 36 - 89abddd7fab13a6a
-// feat: agent marketplace core - implementation line 37 - e12c3739a6807245
-// feat: agent marketplace core - implementation line 38 - 34477295fc107f44
-// feat: agent marketplace core - implementation line 39 - 3206d6a675aa808b
-// feat: agent marketplace core - implementation line 40 - e14a9b03941fc013
-// feat: agent marketplace core - implementation line 41 - a2608f5d1dc2be10
-// feat: agent marketplace core - implementation line 42 - 1703ca5ab0f0100e
-// feat: agent marketplace core - implementation line 43 - 413e49fb00c896aa
-// feat: agent marketplace core - implementation line 44 - 2ca09954a11ace40
-// feat: agent marketplace core - implementation line 45 - 69a630b1bdfcf1a2
-// feat: agent marketplace core - implementation line 46 - 1fa99bb658c867f6
-// feat: agent marketplace core - implementation line 47 - 9bb29fc260e2403b
-// feat: agent marketplace core - implementation line 48 - 3a02fd23f5b1f7f8
-// feat: agent marketplace core - implementation line 49 - ea59c3aeed5ce572
-// feat: agent marketplace core - implementation line 50 - d8569a90c752c508
-// feat: agent marketplace core - implementation line 51 - 7fc1335083ec94db
-// feat: agent marketplace core - implementation line 52 - 48f04c2ae835bc7d
-// feat: agent marketplace core - implementation line 53 - b66fb4eebd9a798a
-// feat: agent marketplace core - implementation line 54 - 55e0906725784e27
-// feat: agent marketplace core - implementation line 55 - eb1c428de1e1ba44
-// feat: agent marketplace core - implementation line 56 - 6967591977150b29
-// feat: agent marketplace core - implementation line 57 - 8829cc085087859d
-// feat: agent marketplace core - implementation line 58 - 839140f8ff0f1196
-// feat: agent marketplace core - implementation line 59 - 86cdca63af646bc1
-// feat: agent marketplace core - implementation line 60 - acc93970fabbfe3b
-// feat: agent marketplace core - implementation line 61 - ba5961db472e348e
-// feat: agent marketplace core - implementation line 62 - a6c02ce0db254bc0
-// feat: agent marketplace core - implementation line 63 - ea8d97bf7250ca2e
-// feat: agent marketplace core - implementation line 64 - ee7d9e067f9dca51
-// feat: agent marketplace core - implementation line 65 - 0305a45a2e8a7a5a
-// feat: agent marketplace core - implementation line 66 - e801b2d84e5d3afc
-// feat: agent marketplace core - implementation line 67 - ad8c545b1d06b59b
-// feat: agent marketplace core - implementation line 68 - 3a586189a709ec6f
-// feat: agent marketplace core - implementation line 69 - eaa422acc2d49371
-// feat: agent marketplace core - implementation line 70 - 5395e4d375801a83
-// feat: agent marketplace core - implementation line 71 - 0e358e157d7395a6
-// feat: agent marketplace core - implementation line 72 - deb10971bc577cbb
-// feat: agent marketplace core - implementation line 73 - 692d5781c955083d
-// feat: agent marketplace core - implementation line 74 - 243990b9d1663cec
-// feat: agent marketplace core - implementation line 75 - 41a0086a2f17a8f1
-// feat: agent marketplace core - implementation line 76 - b274df7943a90180
-// feat: agent marketplace core - implementation line 77 - 64f6871a8af10d8a
-// feat: agent marketplace core - implementation line 78 - c6af31761bf94873
-// feat: agent marketplace core - implementation line 79 - f2e692facacdc117
-// feat: agent marketplace core - implementation line 80 - 6de0c24573881224
-// feat: agent marketplace core - implementation line 81 - 09f44567dfad42de
-// feat: agent marketplace core - implementation line 82 - 39c18f1f9f3c27e4
-// feat: agent marketplace core - implementation line 83 - 23b4f568c5372096
-// feat: agent marketplace core - implementation line 84 - 4795e31ef8df7996
-// feat: agent marketplace core - implementation line 85 - 92c431ed8dfd8ad9
-// feat: agent marketplace core - implementation line 86 - 45cc8c5e3e11665e
-// feat: agent marketplace core - implementation line 87 - 8a53e2543bf57ff2
-// feat: agent marketplace core - implementation line 88 - ceeb883f818682f6
-// feat: agent marketplace core - implementation line 89 - cdafedbde20a6695
-// feat: agent marketplace core - implementation line 90 - 12f8db549e31314a
+// refactor: marketplace optimization - refactored line 1 - 1b05097fa4d149407c187831
+// refactor: marketplace optimization - refactored line 2 - a85d376c52b0d1f261dbf8ee
+// refactor: marketplace optimization - refactored line 3 - 13e36bf0521b0399cb439cdc
+// refactor: marketplace optimization - refactored line 4 - a0fc2b8498dcd7149780b140
+// refactor: marketplace optimization - refactored line 5 - 52407f8ddc1fbeba1f1acaff
+// refactor: marketplace optimization - refactored line 6 - 1c96b12844790f78e3518fae
+// refactor: marketplace optimization - refactored line 7 - c5688755dddfc10e417dabc0
+// refactor: marketplace optimization - refactored line 8 - 023f66921fea9ca2bfff07ab
+// refactor: marketplace optimization - refactored line 9 - a9dd6704021cdfb9d3e60352
+// refactor: marketplace optimization - refactored line 10 - b304d7940c80abd6a29e01d5
+// refactor: marketplace optimization - refactored line 11 - 404b17e43ea7d87da6f61f3b
+// refactor: marketplace optimization - refactored line 12 - ff26e81cff5c1c96f1b8a4ec
+// refactor: marketplace optimization - refactored line 13 - 72514a59baca2e9f0a0d98d1
+// refactor: marketplace optimization - refactored line 14 - 5a76bb76393461c09c729d4f
+// refactor: marketplace optimization - refactored line 15 - b14c8d565db96c9256c83e83
+// refactor: marketplace optimization - refactored line 16 - 45129090864217bb462f22ba
+// refactor: marketplace optimization - refactored line 17 - 01a8430baf1d801acacf7d8c
+// refactor: marketplace optimization - refactored line 18 - b1d2007998006dc720263347
+// refactor: marketplace optimization - refactored line 19 - b5ff5750ad2cf5b1278d2d04
+// refactor: marketplace optimization - refactored line 20 - 70bbb660f28c40e82fac975f
+// refactor: marketplace optimization - refactored line 21 - d376d645d9c6a0328236046e
+// refactor: marketplace optimization - refactored line 22 - da9ce58efb3d72980899bbbc
+// refactor: marketplace optimization - refactored line 23 - 578ff17be71886b4ed672ef7
+// refactor: marketplace optimization - refactored line 24 - f72d9c389afaa48ecce2b490
+// refactor: marketplace optimization - refactored line 25 - 4bb3fd550fae259f03549b32
+// refactor: marketplace optimization - refactored line 26 - 1fc1a3fd50cdda2a2721ced4
+// refactor: marketplace optimization - refactored line 27 - be44d3e10f664c21fef9cf09
+// refactor: marketplace optimization - refactored line 28 - a629800a2713b6d272fdb8d8
+// refactor: marketplace optimization - refactored line 29 - 6a67d6fd07ed4177487f8e21
+// refactor: marketplace optimization - refactored line 30 - a0efdf38bb9bc970819d2f55
+// refactor: marketplace optimization - refactored line 31 - 59f61e8cb1e6ae6dfcd68668
+// refactor: marketplace optimization - refactored line 32 - 96a9fe8d5f1f2c269990d742
+// refactor: marketplace optimization - refactored line 33 - 058fa30a1b60b189b7fe93dc
+// refactor: marketplace optimization - refactored line 34 - 12599a244b682c53f83a3a46
+// refactor: marketplace optimization - refactored line 35 - bef16a2ba66ed87ea33c13f3
+// refactor: marketplace optimization - refactored line 36 - 8af2bc1705501a1c1ecf81e0
+// refactor: marketplace optimization - refactored line 37 - d0cd5130802c91c744eb23ab
+// refactor: marketplace optimization - refactored line 38 - a966fce49bee71294c68c517
+// refactor: marketplace optimization - refactored line 39 - 53bd34ef033f5d4d38b8081b
+// refactor: marketplace optimization - refactored line 40 - 8fb567c101fb92528a5045d5
+// refactor: marketplace optimization - refactored line 41 - a7d543efaf4d3def519e6158
+// refactor: marketplace optimization - refactored line 42 - 19ac17f1c8379b0728953b32
+// refactor: marketplace optimization - refactored line 43 - e6167f902c1f4e2e1176916a
+// refactor: marketplace optimization - refactored line 44 - 38e891fc0ca8d7a4f4ef733f
+// refactor: marketplace optimization - refactored line 45 - afcf6d523bd5ea7b6a0a0895
+// refactor: marketplace optimization - refactored line 46 - 2900df62c9e7bf69536ee5fc
+// refactor: marketplace optimization - refactored line 47 - 456049d47793b6b7b05a388e
+// refactor: marketplace optimization - refactored line 48 - 650ee85c56154db6dc2d677b
+// refactor: marketplace optimization - refactored line 49 - 0202b2024ce949a22856e7eb
+// refactor: marketplace optimization - refactored line 50 - 3ebbfe1b5ef55e23a6655ba0
+// refactor: marketplace optimization - refactored line 51 - 29f01f23a709a48f98eb3a5f
+// refactor: marketplace optimization - refactored line 52 - 31fe14a772093475379c7e44
+// refactor: marketplace optimization - refactored line 53 - 94ddb9bbedc8c7a682848e0b
+// refactor: marketplace optimization - refactored line 54 - 9d09eb386649527aea75fe35
+// refactor: marketplace optimization - refactored line 55 - 144526e29d2349d71ec808eb
+// refactor: marketplace optimization - refactored line 56 - cef40645d96a5fd4d0bbc65d
+// refactor: marketplace optimization - refactored line 57 - 47f554f273ab28e163699b21
+// refactor: marketplace optimization - refactored line 58 - 0342291c6963f36f31586f2d
+// refactor: marketplace optimization - refactored line 59 - d28b6a194c7e5b2382f78390
+// refactor: marketplace optimization - refactored line 60 - 8d94eaee7d45f2d385482ac1
+// refactor: marketplace optimization - refactored line 61 - 7642e68c2736806dd8851ef0
+// refactor: marketplace optimization - refactored line 62 - f15a1c03c2d2e4f3e5f75f1a
+// refactor: marketplace optimization - refactored line 63 - 8eca82dffdaee612a2aebf63
+// refactor: marketplace optimization - refactored line 64 - 032a08c225fa4f71406a9820
+// refactor: marketplace optimization - refactored line 65 - 4de5db5ae940bfce95b090c9
+// refactor: marketplace optimization - refactored line 66 - 3c9de76d8ea37af11131bf16
+// refactor: marketplace optimization - refactored line 67 - 17b292b535e363202deaacf7
+// refactor: marketplace optimization - refactored line 68 - 7fdda50fa8e6f53b4d67cf8d
+// refactor: marketplace optimization - refactored line 69 - 8ded73a4f9adf61577b111bf
+// refactor: marketplace optimization - refactored line 70 - bcd8b8cdc67f1df845bce1d0
+// refactor: marketplace optimization - refactored line 71 - f945f55518ed20bcf0801f40
+// refactor: marketplace optimization - refactored line 72 - 75a664364e5c7fa82ac4d639
+// refactor: marketplace optimization - refactored line 73 - d490965d5036cbf45aa497b8
+// refactor: marketplace optimization - refactored line 74 - 35bb41dc93f7413034ea3bc1
+// refactor: marketplace optimization - refactored line 75 - 3f31d0f5cad6d009c3f4430b
+// refactor: marketplace optimization - refactored line 76 - 3eefa61060525dfdfcfea257
+// refactor: marketplace optimization - refactored line 77 - 8dcc83548c43bf9cc80a3187
+// refactor: marketplace optimization - refactored line 78 - cf5a310569864e34ef782123
+// refactor: marketplace optimization - refactored line 79 - c477b9191ed3e12d30975f82
+// refactor: marketplace optimization - refactored line 80 - 25066b4dbfa09c3be63854d0
+// refactor: marketplace optimization - refactored line 81 - 76908740476adf08b1a26eb7
+// refactor: marketplace optimization - refactored line 82 - 48d752fa65da08623add8b65
+// refactor: marketplace optimization - refactored line 83 - a4575fd552568b6f10315eb8
+// refactor: marketplace optimization - refactored line 84 - 15b0478cf0af2e3dcf137b15
+// refactor: marketplace optimization - refactored line 85 - 05eeea7d28b7fbdb4db93d24
+// refactor: marketplace optimization - refactored line 86 - 9e17f4daa4731e79dee36b2b
+// refactor: marketplace optimization - refactored line 87 - 6747b24365f4112f40322f86
+// refactor: marketplace optimization - refactored line 88 - 9fe94281e1fa240a25357525
+// refactor: marketplace optimization - refactored line 89 - da9649bed8950d67829870f1
+// refactor: marketplace optimization - refactored line 90 - d37db0411d733cf3e6b16da5
+// refactor: marketplace optimization - refactored line 91 - ed80beec7b9970ecbc3484ea
+// refactor: marketplace optimization - refactored line 92 - 110483a7390f36d5ef36c237
+// refactor: marketplace optimization - refactored line 93 - 9f613ec8b6654779cf79f2e7
+// refactor: marketplace optimization - refactored line 94 - 27706648466709b395b6885e
+// refactor: marketplace optimization - refactored line 95 - 2f10ef92c331c127a59de6ae
+// refactor: marketplace optimization - refactored line 96 - 988fb56f44669c6796276a41
+// refactor: marketplace optimization - refactored line 97 - a2d67695894ee13f5ce3166d
+// refactor: marketplace optimization - refactored line 98 - f489d5d967092cf64d085537
+// refactor: marketplace optimization - refactored line 99 - 03244a5551a4be2e599915bf
+// refactor: marketplace optimization - refactored line 100 - f323908383d00735c570df02
+// refactor: marketplace optimization - refactored line 101 - d62601db0df96f58f11b96b1
+// refactor: marketplace optimization - refactored line 102 - 0d1708492db98bf10f83754e
+// refactor: marketplace optimization - refactored line 103 - 88386c0c6fd2fe3b0642698e
+// refactor: marketplace optimization - refactored line 104 - a4ab67e52399f84e80f80805
+// refactor: marketplace optimization - refactored line 105 - cae0075c0cd579b774732300
+// refactor: marketplace optimization - refactored line 106 - c864b11517d11220d590c146
+// refactor: marketplace optimization - refactored line 107 - ce7e8ad889364cbca47ee2e5
+// refactor: marketplace optimization - refactored line 108 - 1f4307e9063498653355b4fe
+// refactor: marketplace optimization - refactored line 109 - 022e907659b43aa7d4c49a3c
+// refactor: marketplace optimization - refactored line 110 - 502c0b46322a22438fb29970
+// refactor: marketplace optimization - refactored line 111 - 960eee4095ea35b61e714b87
+// refactor: marketplace optimization - refactored line 112 - fccdba4616a6401daa8828a8
+// refactor: marketplace optimization - refactored line 113 - 17b4fd20c5ee039b17e5a171
+// refactor: marketplace optimization - refactored line 114 - c77463e00d64c307a2da4969
+// refactor: marketplace optimization - refactored line 115 - a88c7e5536a8483ab68ded18
+// refactor: marketplace optimization - refactored line 116 - a5c74e14b33d02b45b160f23
+// refactor: marketplace optimization - refactored line 117 - 51a0e281543d90da1ecaab7f
+// refactor: marketplace optimization - refactored line 118 - 36cd5056037c416ccb41b61b
+// refactor: marketplace optimization - refactored line 119 - b588ad4f3471a563863fff17
+// refactor: marketplace optimization - refactored line 120 - 2c824408ea8ff9ad9387084f
